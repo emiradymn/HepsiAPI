@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sBRy+9EMNvc4bcuFl5UgNZOTx17AgFLZfqP76OJflOrnZ94yhr8Y8HGPLCtC19nohUXjqC757ssb4IahjsKT8g==",
+  "dgSpecHash": "thCwJQL/AB5vgDnUQJZSx/AEvqvppxImB0pGmgpiBxp+9zSGg1l3iXUn+y+J0SITBIBVXsVFLJO+7Ce+ctcEPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\Onion Architecture\\HepsiAPI\\HepsiAPI.Core\\HepsiAPI.Application\\HepsiAPI.Application.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\emira\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\emira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\emira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
