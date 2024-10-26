@@ -16,6 +16,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiAPI.Persistence", "HepsiAPI.Infrastructure\HepsiAPI.Persistence\HepsiAPI.Persistence.csproj", "{EB471EDA-CEE8-4D09-A3D4-EB15B31794A5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HepsiAPI.Presentation", "HepsiAPI.Presentation", "{72F1A762-DE27-41AA-BB25-ECEE6D41BEB1}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiAPI.Api", "HepsiAPI.Presentation\HepsiAPI.Api\HepsiAPI.Api.csproj", "{C79D68CE-AE79-4A1D-9B5E-BE99C3372D5C}"
 EndProject
@@ -23,9 +26,6 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B804652A-E61F-47BA-BF86-35337DBC544A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -48,6 +48,9 @@ Global
 		{C79D68CE-AE79-4A1D-9B5E-BE99C3372D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C79D68CE-AE79-4A1D-9B5E-BE99C3372D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C79D68CE-AE79-4A1D-9B5E-BE99C3372D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B804652A-E61F-47BA-BF86-35337DBC544A} = {F2E9AD34-C00F-430C-A989-E5FC3B7F760E}
