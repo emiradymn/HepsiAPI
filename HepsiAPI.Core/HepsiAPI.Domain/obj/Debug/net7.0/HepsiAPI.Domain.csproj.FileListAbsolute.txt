@@ -1,0 +1,12 @@
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Domain\bin\Debug\net7.0\HepsiAPI.Domain.deps.json
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Domain\bin\Debug\net7.0\HepsiAPI.Domain.dll
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Domain\bin\Debug\net7.0\HepsiAPI.Domain.pdb
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Domain\obj\Debug\net7.0\HepsiAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Domain\obj\Debug\net7.0\HepsiAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Domain\obj\Debug\net7.0\HepsiAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Domain\obj\Debug\net7.0\HepsiAPI.Domain.AssemblyInfo.cs
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Domain\obj\Debug\net7.0\HepsiAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Domain\obj\Debug\net7.0\HepsiAPI.Domain.dll
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Domain\obj\Debug\net7.0\refint\HepsiAPI.Domain.dll
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Domain\obj\Debug\net7.0\HepsiAPI.Domain.pdb
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Domain\obj\Debug\net7.0\ref\HepsiAPI.Domain.dll

@@ -45,5 +45,6 @@ public class CategoryConfigration : IEntityTypeConfiguration<Category>
             IsDeleted = false,
             CreateDate = DateTime.Now,
         };
+        builder.HasData(category1, category2, parent1, parent2);
     }
 }
