@@ -1,0 +1,17 @@
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\obj\Debug\net7.0\HepsiAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\obj\Debug\net7.0\HepsiAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\obj\Debug\net7.0\HepsiAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\obj\Debug\net7.0\HepsiAPI.Persistence.AssemblyInfo.cs
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\obj\Debug\net7.0\HepsiAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\bin\Debug\net7.0\HepsiAPI.Persistence.deps.json
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\bin\Debug\net7.0\HepsiAPI.Persistence.runtimeconfig.json
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\bin\Debug\net7.0\HepsiAPI.Persistence.dll
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\bin\Debug\net7.0\HepsiAPI.Persistence.pdb
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\bin\Debug\net7.0\HepsiAPI.Domain.dll
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\bin\Debug\net7.0\HepsiAPI.Domain.pdb
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\obj\Debug\net7.0\HepsiAPI.Persistence.csproj.CopyComplete
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\obj\Debug\net7.0\HepsiAPI.Persistence.dll
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\obj\Debug\net7.0\refint\HepsiAPI.Persistence.dll
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\obj\Debug\net7.0\HepsiAPI.Persistence.pdb
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\obj\Debug\net7.0\HepsiAPI.Persistence.genruntimeconfig.cache
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\obj\Debug\net7.0\ref\HepsiAPI.Persistence.dll
