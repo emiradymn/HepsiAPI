@@ -408,6 +408,20 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
+      "HepsiAPI.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "HepsiAPI.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.11"
+        },
+        "compile": {
+          "bin/placeholder/HepsiAPI.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HepsiAPI.Application.dll": {}
+        }
+      },
       "HepsiAPI.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -1057,6 +1071,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "HepsiAPI.Application/1.0.0": {
+      "type": "project",
+      "path": "../../HepsiAPI.Core/HepsiAPI.Application/HepsiAPI.Application.csproj",
+      "msbuildProject": "../../HepsiAPI.Core/HepsiAPI.Application/HepsiAPI.Application.csproj"
+    },
     "HepsiAPI.Domain/1.0.0": {
       "type": "project",
       "path": "../../HepsiAPI.Core/HepsiAPI.Domain/HepsiAPI.Domain.csproj",
@@ -1066,6 +1085,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Bogus >= 34.0.2",
+      "HepsiAPI.Application >= 1.0.0",
       "HepsiAPI.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.11",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.11",
@@ -1099,6 +1119,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\emira\\OneDrive\\Masaüstü\\Onion Architecture\\HepsiAPI\\HepsiAPI.Core\\HepsiAPI.Application\\HepsiAPI.Application.csproj": {
+              "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\Onion Architecture\\HepsiAPI\\HepsiAPI.Core\\HepsiAPI.Application\\HepsiAPI.Application.csproj"
+            },
             "C:\\Users\\emira\\OneDrive\\Masaüstü\\Onion Architecture\\HepsiAPI\\HepsiAPI.Core\\HepsiAPI.Domain\\HepsiAPI.Domain.csproj": {
               "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\Onion Architecture\\HepsiAPI\\HepsiAPI.Core\\HepsiAPI.Domain\\HepsiAPI.Domain.csproj"
             }
