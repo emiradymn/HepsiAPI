@@ -1,5 +1,7 @@
 using System;
+using HepsiAPI.Application.Interfaces.Repositories;
 using HepsiAPI.Persistence.Context;
+using HepsiAPI.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -19,6 +21,8 @@ public static class Registration
             var serverVersion = new MySqlServerVersion(new Version(8, 0, 39));
             options.UseMySql(connectionString, serverVersion);
         });
+
+        services.AddScoped(typeof(IReadRepository<>), typeof(ReadRepository<>));
     }
 }
 
