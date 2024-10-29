@@ -22,7 +22,8 @@ public static class Registration
             options.UseMySql(connectionString, serverVersion);
         });
 
-        services.AddScoped(typeof(IReadRepository<>), typeof(ReadRepository<>));
+        services.AddScoped(typeof(IReadRepository<>), typeof(ReadRepository<>));  // DI yapısı
+        services.AddScoped(typeof(IWriteRepository<>), typeof(WriteRepository<>));
     }
 }
 
