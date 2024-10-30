@@ -15,3 +15,5 @@ C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastr
 C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\obj\Debug\net7.0\HepsiAPI.Persistence.pdb
 C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\obj\Debug\net7.0\HepsiAPI.Persistence.genruntimeconfig.cache
 C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\obj\Debug\net7.0\ref\HepsiAPI.Persistence.dll
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\bin\Debug\net7.0\HepsiAPI.Application.dll
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Infrastructure\HepsiAPI.Persistence\bin\Debug\net7.0\HepsiAPI.Application.pdb

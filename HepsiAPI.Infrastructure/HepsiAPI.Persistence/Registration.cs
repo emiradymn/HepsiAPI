@@ -1,7 +1,9 @@
 using System;
 using HepsiAPI.Application.Interfaces.Repositories;
+using HepsiAPI.Application.UnitOfWorks;
 using HepsiAPI.Persistence.Context;
 using HepsiAPI.Persistence.Repositories;
+using HepsiAPI.Persistence.UnitOfWorks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -24,6 +26,8 @@ public static class Registration
 
         services.AddScoped(typeof(IReadRepository<>), typeof(ReadRepository<>));  // DI yapısı
         services.AddScoped(typeof(IWriteRepository<>), typeof(WriteRepository<>));
+
+        services.AddScoped<IUnitOfWork, UnitOfWork>();
     }
 }
 

@@ -10,3 +10,6 @@ C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\Hep
 C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Application\obj\Debug\net7.0\refint\HepsiAPI.Application.dll
 C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Application\obj\Debug\net7.0\HepsiAPI.Application.pdb
 C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Application\obj\Debug\net7.0\ref\HepsiAPI.Application.dll
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Application\bin\Debug\net7.0\HepsiAPI.Domain.dll
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Application\bin\Debug\net7.0\HepsiAPI.Domain.pdb
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Core\HepsiAPI.Application\obj\Debug\net7.0\HepsiAPI.Application.csproj.CopyComplete
