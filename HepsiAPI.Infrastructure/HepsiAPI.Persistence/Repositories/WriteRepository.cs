@@ -29,8 +29,7 @@ public class WriteRepository<T> : IWriteRepository<T> where T : class, IEntityBa
     public async Task<T> UpdateAsync(T entity)
     {
         await Task.Run(() => Table.Update(entity));
-        return entity;  // Task ten sonra T olmadığı için return e gerek yok
-
+        return entity;  // Task ten sonra T oldupu için return kullanılır.
     }
 
     public async Task HardDeleteAsync(T entity)

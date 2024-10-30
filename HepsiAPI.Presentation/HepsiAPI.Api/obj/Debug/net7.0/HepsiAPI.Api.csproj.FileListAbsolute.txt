@@ -47,3 +47,5 @@ C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Presenta
 C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Presentation\HepsiAPI.Api\obj\Debug\net7.0\HepsiAPI.Api.pdb
 C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Presentation\HepsiAPI.Api\obj\Debug\net7.0\HepsiAPI.Api.genruntimeconfig.cache
 C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Presentation\HepsiAPI.Api\obj\Debug\net7.0\ref\HepsiAPI.Api.dll
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Presentation\HepsiAPI.Api\bin\Debug\net7.0\HepsiAPI.Application.dll
+C:\Users\emira\OneDrive\Masaüstü\Onion Architecture\HepsiAPI\HepsiAPI.Presentation\HepsiAPI.Api\bin\Debug\net7.0\HepsiAPI.Application.pdb
