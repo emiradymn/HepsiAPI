@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "O7j5hBuH06GSLNDkYhLLITWZoVrurwIFbsW9w9fNfka9uHBbD/WRFerYCK+uP4dTdHJtPdSco5zPDXQ14OMRIQ==",
+  "dgSpecHash": "Z3dl7MTRpFtOLR/mh83QbtqWIpxapuuIjucNI6wBWf0VNbYLdlUnvu7F0kojnX7P5vN4kq50aTkacp9EvdE+og==",
   "success": true,
   "projectFilePath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\Onion Architecture\\HepsiAPI\\HepsiAPI.Presentation\\HepsiAPI.Api\\HepsiAPI.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emira\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
