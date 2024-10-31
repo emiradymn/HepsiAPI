@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Z3dl7MTRpFtOLR/mh83QbtqWIpxapuuIjucNI6wBWf0VNbYLdlUnvu7F0kojnX7P5vN4kq50aTkacp9EvdE+og==",
+  "dgSpecHash": "eAlHH3CjfycsrKEwf2nU3oV3DtrtI8g2Osj4v8HffP8l2YxsiiwIvJl8nnTl+5oD6VTM5eGTwwBF3yyIllXs1Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\Onion Architecture\\HepsiAPI\\HepsiAPI.Presentation\\HepsiAPI.Api\\HepsiAPI.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\emira\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
     "C:\\Users\\emira\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.11\\microsoft.entityframeworkcore.analyzers.7.0.11.nupkg.sha512",
